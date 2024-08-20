@@ -21,7 +21,7 @@
 
 - **Email:** [op@santgbots.ru](mailto:op@santgbots.ru)
 - **Telegram:** [Telegram профиль](https://t.me/e_isaevsan)
-- **GitHub:** [Ваш GitHub профиль](https://github.com/krakodjaba)
+- **GitHub:** [GitHub профиль](https://github.com/krakodjaba)
 
 Я всегда открыт для новых возможностей и сотрудничества. Спасибо за внимание!
 
