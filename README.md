@@ -9,15 +9,15 @@
 ## 🛠 Навыки
 
 - **OSINT & Анализ данных**: поиск, сбор и анализ информации из открытых источников, автоматизация процессов.
-- **Junior Pentest & Security**: базовая защита серверов и ПК & Pentest like easy level ctf
-- **Разработка ботов для Telegram**: (Feedback, Logging).
+- **Junior Pentest & Security**: базовая защита серверов и ПК & ctf 
+- **Разработка ботов для Telegram**: (Feedback, Logging, Scraping).
 - **Комплекс решений Деанонимизации**.
 - **Языки программирования и технологии**:
   - Python, DBMS, Parsing, RestAPI.
   - JS, d3.js, Leaflet.js, WinBox.
   - Selenium, BeautifulSoup, JSON.
-- **Linux-дистрибутивы**: Debian Based, like: Kali OS, Parrot OS.
-- **VPN**: OpenVPN, WireGuard, 3X-UI.
+- **Linux-дистрибутивы**: Debian Based, security like: Kali OS, Parrot OS, default like debian, raspbian.
+- **VPN**: OpenVPN, WireGuard, l2tp, xray: vless
 
 ## 🔥 Опыт работы
 
@@ -30,12 +30,9 @@
 ## 🚀 Проекты
 
 - **[OSINT-SAN](https://osintsan.ru)** — OSINT фреймворк.
-- **[TelAnalysis](https://github.com/krakodjaba/telanalysis)** — Анализ Telegram чатов.
-- **[Site](https://github.com/krakodjaba/site)** — Статьи и новости.
+- **[TelAnalysis broken channel](https://github.com/krakodjaba/telanalysis)** — Анализ Telegram чатов.
+- **[TelAnalysis Site](https://santgbots.ru)**
 
-## 💼 Консультации и работа под ключ
-### Работа под ключ
-В рамках описанных навыков.
 
 ## 📬 Контакты
 
