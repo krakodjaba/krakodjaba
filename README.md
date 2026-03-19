@@ -60,7 +60,7 @@
 
 🔍 **[OSINT-SAN](https://osintsan.ru)** — фреймворк для OSINT-аналитиков  
 📊 **[TelAnalysis](https://github.com/krakodjaba/telanalysis)** — анализ Telegram чатов  
-🌐 **[TelAnalysis Web](https://santgbots.ru)** — веб-платформа анализа чатов  
+🌐 **[IsaevLab](https://isaevlab.ru)** — CTA 
 
 ---
 
